@@ -1,9 +1,22 @@
 ---
 layout: archive
-title: "Paper Workshop"
-permalink: /workshop/
+title: "Teaching"
+permalink: /teaching/
 author_profile: true
 ---
+
+# I have been a teaching assistant for both comparative politics and quantitative methods classes. Please [contact me](hfolsz@stanford.edu) for teaching materials.
+
+# Comparative Politics
+
+Democracy, Development, and the Rule of Law (POLISCI 114D) 2022, 2023 - Prof. Kathryn Stoner, undergraduate and MA class, Stanford University
+
+# Quantitative Methods
+
+Political Methodology II: Causal Inference (POLISCI 450B), 2023 - Prof. Jens Hainmueller, PhD class, Stanford University
+
+Political Methodology I: Regression (POLISCI 450A), 2021 - Prof. Jens Hainmueller, PhD class, Stanford University
+
 
 The EEPGW online workshop will be held every other week on Fridays between 5:00-6:00 PM Central European Time (8:00-9:00 AM PST, 11:00-12:00 AM EST). Every other meeting will be a paper presentation. This will last one hour. Participants will be expected to read the paper ahead of the meeting. After a brief presentation by the author(s), a discussant will provide comments and suggestions. We then open the floor for further questions and comments from the audience. Please [register for our listserv](http://eepurl.com/inB3N-/) to recieve the Zoom link and paper for each workshop.
 
