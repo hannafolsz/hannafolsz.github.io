@@ -1,16 +1,16 @@
 # main links links
 main:
-#  - title: "Publications"
-  #  url: /publications/
+  - title: "Research"
+    url: /research/
 
-  - title: "Workshop Schedule"
-    url: /workshop/    
+  - title: "Teaching"
+    url: /teaching/    
 
-  - title: "Writing Group"
-    url: /writing/    
+  - title: "CV"
+    url: /cv/    
     
-  - title: "Organizers"
-    url: /organizers/  
+  - title: "Contact"
+    url: /contact/  
     
  # - title: "Portfolio"
  #   url: /portfolio/
