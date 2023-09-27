@@ -5,7 +5,7 @@ permalink: /teaching/
 author_profile: true
 ---
 
-## I have been a teaching assistant for both comparative politics and quantitative methods classes. Please [contact me](hfolsz@stanford.edu) for teaching materials.
+### I have been a teaching assistant for both comparative politics and quantitative methods classes. Please [contact me](hfolsz@stanford.edu) for teaching materials.
 
 
 
