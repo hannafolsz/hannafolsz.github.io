@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I am a 4th-year PhD Candidate in Political Science at Stanford University. My dissertation focuses on opposition party strategies in countries experiencing democratic backsliding in East-Central Europe. My wider research interests include the determinants and consequences of democratic erosion, media control, corruption, and accountability in East-Central Europe and Latin America. My work applies modern causal inference, text analysis, and geospatial techniques. 
+Welcome! I am a 4th-year PhD Candidate in Political Science at Stanford University. My dissertation examines the campaign strategies and messaging of opposition parties in Hungary and Poland, two countries experiencing democratic backsliding. My wider research interests include the determinants and consequences of democratic erosion, media control, corruption, and accountability in primarily East-Central Europe and, secondarily, Latin America. My work applies modern causal inference, text analysis, and geospatial techniques. 
 
 I grew up in Budapest, Hungary and moved to the UK for the first half of my studies. I hold a B.A. in Economics and Politics from Durham University and an MSc in Political Science and Political Economy from the London School of Economics. Beyond English and Hungarian, I speak Polish, Spanish, French, and German.
 
