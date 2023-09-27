@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Hanna Folsz"
   avatar           : "hfolsz.jpeg"
-  bio              : "Hanna Folsz"
-  location         : #"Virtual"
+  bio              : "4th-year PhD Candidate in Political Science at Stanford University"
+  location         : "Stanford, US"
   employer         :
   pubmed           :  
   googlescholar    :  
@@ -227,6 +227,15 @@ defaults:
       author_profile: true
       share: true
       comments: true
+  # _publications
+  - scope:
+      path: ""
+      type: publications
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
   # _portfolio
   - scope:
       path: ""
@@ -260,6 +269,7 @@ defaults:
       layout: single
       author_profile: true
       share: true
+    
 # Sass/SCSS
 sass:
   sass_dir: _sass
