@@ -10,12 +10,12 @@ author_profile: true
 
 
 ## Comparative Politics
-======
+------
 
 Democracy, Development, and the Rule of Law (POLISCI 114D) 2022, 2023 - Prof. Kathryn Stoner, undergraduate and MA class, Stanford University
 
 ## Quantitative Methods
-======
+------
 
 Political Methodology II: Causal Inference (POLISCI 450B), 2023 - Prof. Jens Hainmueller, PhD class, Stanford University
 
