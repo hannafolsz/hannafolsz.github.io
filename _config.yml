@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "EEPGW"
+title                    : "Hanna Folsz"
 title_separator          : "-"
-name                     : &name "East European Politics Graduate Workshop"
-description              : &description "We are a workshop for political science graduate students working on East European politics. We meet bi-monthly online, where we host paper workshops and a writing group."
-url                      : https://eepg-workshop.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Hanna Folsz"
+description              : &description "I am a 4th year PhD Candidate in Political Science at Stanford University. My research focuses on resistance to democratic backsliding"
+url                      : https://hannafolsz.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "eepg-workshop/eepg-workshop.github.io"
+repository               : "hannafolsz/hannafolsz.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "EEPGW"
-  avatar           : "kalush.jpeg"
-  bio              : "East European Politics Graduate Workshop"
-  location         : "Virtual"
+  name             : "Hanna Folsz"
+  avatar           : "hfolsz.jpeg"
+  bio              : "Hanna Folsz"
+  location         : #"Virtual"
   employer         :
   pubmed           :  
   googlescholar    :  
-  email            :  "eepg.workshop@gmail.com"
+  email            :  "hfolsz@stanford.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "eepg-workshop"
+  github           : "hannafolsz"
   google_plus      :
   keybase          :
   instagram        :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "EEPG_Workshop"
+  twitter          : "hannafolsz"
   vine             :
   weibo            :
   xing             :
@@ -209,7 +209,7 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _teaching
+   _teaching
   - scope:
       path: ""
       type: teaching
@@ -218,10 +218,10 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _publications
+   _research
   - scope:
       path: ""
-      type: publications
+      type: research
     values:
       layout: single
       author_profile: true
@@ -244,7 +244,14 @@ defaults:
       layout: talk
       author_profile: true
       share: true
-
+# _cv
+  - scope:
+      path: ""
+      type: cv
+    values:
+      layout: single
+      author_profile: true
+      share: true
 # Sass/SCSS
 sass:
   sass_dir: _sass
