@@ -6,7 +6,8 @@ author_profile: true
 ---
 
 
-# Working Papers
+## Working Papers
+------
 
 1. Democratic Backsliding, Opposition Response, and Voter Behavior: Evidence from Media Capture in Hungary
 
@@ -15,7 +16,11 @@ author_profile: true
 3. Local Political Responsiveness to Electoral Pressures on Corruption: Evidence from a Referendum in Colombia (MA Thesis)
 
 
-# Works in Progress
+
+
+
+## Works in Progress
+------
 
 1. Local Government as Shelter for Opposition in Democratic Backsliding. With [Anna Grzymala-Busse (Stanford)](https://amgbusse.stanford.edu)
 
