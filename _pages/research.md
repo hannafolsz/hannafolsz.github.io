@@ -9,24 +9,23 @@ author_profile: true
 ## Working Papers
 ------
 
-1. Democratic Backsliding, Opposition Response, and Voter Behavior: Evidence from Media Capture in Hungary
+1. Local Government as Shelter for Opposition in Democratic Backsliding. With [Anna Grzymala-Busse (Stanford University)](https://amgbusse.stanford.edu)
 
-2. Does Social Media Advertising Harm Democracies? Targeted Advertising and Electoral Competition in Europe
+2. Legacies of Anti-Authoritarian Resistance and Contemporary Democratic Resilience in Poland. With [Monika Nalepa
+(University of Chicago)](https://www.monikanalepa.com)
 
-3. Local Political Responsiveness to Electoral Pressures on Corruption: Evidence from a Referendum in Colombia (MA Thesis)
+3. How Should Mainstream Parties Campaign Against Undemocratic Populists?
 
+4. Media Capture and Opposition Party Response in Democratic Backsliding.
 
-
+5. Losing my Religion? How Partisan Polarization Drives or Tampers Secularization. With Sebastian Lucek (Stanford University)
 
 
 ## Works in Progress
 ------
 
-1. Local Government as Shelter for Opposition in Democratic Backsliding. With [Anna Grzymala-Busse (Stanford)](https://amgbusse.stanford.edu)
+1. The Supply and Demand of Democratic Commitment: Politicians in Latin America.  With [Beatriz Magaloni (Stanford University)](http://bmagaloni.com)
 
-2. Legacies of Authoritarian Resistance and Present-day Democratic Resilience in Poland. With [Monika Nalepa
-(UChicago)](https://www.monikanalepa.com)
+2. The Religious Drivers of Democratic Backsliding: The Evangelical Church in Brazil. With [Marc Jacob (University of Notre Dame)](https://www.marc-s-jacob.com)
 
-3. Populism and Corruption: A Lab-in-the-field Experiment at the US-Mexico Border. With [Beatriz Magaloni (Stanford)](http://bmagaloni.com), [Alberto Diaz-Cayeros (Stanford)](https://www.albertodiazcayeros.org), [Didi Kuo (Stanford)](https://www.jdkuo.org), Kim Alexander Juarez-Jensen (Stanford)
-
-4. The Religious Drivers of Democratic Backsliding: The Evangelical Church in Brazil. With [Marc Jacob (Stanford)](https://www.marc-s-jacob.com)
+3. Voter Support for Rebuilding Democracy. With [Frances Cayton (Cornell University)](https://www.francescayton.com/)
