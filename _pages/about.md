@@ -14,7 +14,7 @@ I grew up in Budapest, Hungary and moved to the UK for the first half of my stud
 
 I co-organize [EEPGW](https://eepg-workshop.github.io), the East European Politics Graduate Workshop. At Stanford, I am a member of [PovGov](https://povgov.com) (Poverty, Violence, and Governance Lab) and [DPL](https://stanforddpl.org) (Democracy and Polarization Lab).
 
-You can contact me via email at [hfolsz@stanford.edu](mailto:hfolsz@stanford.edu). I always welcome opportunities to talk about Stanford's Political Science PhD with prospective POC, FLI, and international applicants, so please feel free to email me.
+If you have any questions about my research, doing a political science PhD, or anything else, please email me at [hfolsz@stanford.edu](mailto:hfolsz@stanford.edu). 
 
 
 
