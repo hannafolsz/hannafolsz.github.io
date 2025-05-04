@@ -9,16 +9,14 @@ author_profile: true
 ## Working Papers
 ------
 
-1. Local Government as Shelter for Opposition in Democratic Backsliding. With [Anna Grzymala-Busse (Stanford University)](https://amgbusse.stanford.edu)
+1. Local Government as Shelter for Opposition in Democratic Backsliding in Hungary and Poland. With [Anna Grzymala-Busse (Stanford University)](https://amgbusse.stanford.edu)
 
 2. Legacies of Anti-Authoritarian Resistance and Contemporary Democratic Resilience in Poland. With [Monika Nalepa
 (University of Chicago)](https://www.monikanalepa.com)
 
-3. How Should Mainstream Parties Campaign Against Undemocratic Populists?
+3. Media Capture and Opposition-Related Coverage in Hungary.
 
-4. Media Capture and Opposition Party Response in Democratic Backsliding.
-
-5. Losing my Religion? How Partisan Polarization Drives or Tampers Secularization. With Sebastian Lucek (Stanford University)
+5. Losing my Religion? How Partisan Polarization Drives or Tempers Secularization. With Sebastian Lucek (Stanford University)
 
 
 ## Works in Progress
