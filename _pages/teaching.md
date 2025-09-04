@@ -5,10 +5,6 @@ permalink: /teaching/
 author_profile: true
 ---
 
-### I have been a teaching assistant for both comparative politics and quantitative methods classes. Please [contact me](hfolsz@stanford.edu) for teaching materials and evaluations.
-
-
-
 ### Comparative Politics
 ------
 
@@ -25,4 +21,5 @@ Political Methodology II: Causal Inference (POLISCI 450B), 2023 - Prof. Jens Hai
 Political Methodology I: Regression (POLISCI 450A), 2021 - Prof. Jens Hainmueller, PhD class, Stanford University
 
 
-### I was honored to receive the [Stanford Centennial Teaching Assistant (CTA) Award](https://ctl.stanford.edu/centennial-teaching-assistant-awards) for outstanding teaching assistance in 2024.
+### I was honored to receive the [Stanford Centennial Teaching Assistant (CTA) Award](https://ctl.stanford.edu/centennial-teaching-assistant-awards) for outstanding teaching assistance in 2024. Please feel free to [contact me](hfolsz@stanford.edu) for teaching materials and evaluations.
+
