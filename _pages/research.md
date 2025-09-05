@@ -14,7 +14,7 @@ author_profile: true
 2. Legacies of Anti-Authoritarian Resistance and Contemporary Democratic Resilience in Poland. With [Monika Nalepa
 (University of Chicago)](https://www.monikanalepa.com) Under review.
 
-3. [How Should Mainstream Parties Campaign Against Undemocratic Leaders?](https://drive.google.com/file/d/1ttVFUpOERDfmBk2RuaWJbYMwvbQ8cOmb)
+3. How Should Mainstream Parties Campaign Against Undemocratic Leaders? #](https://drive.google.com/file/d/1ttVFUpOERDfmBk2RuaWJbYMwvbQ8cOmb)
 
 ## Publications
 ------
