@@ -11,7 +11,7 @@ author_profile: true
 
 1. [Economic Retaliation and the Decline of Opposition Quality](https://drive.google.com/file/d/1Kv079DdL_IcaGnXqzoqr6IVk1VSF0cn1). Job market paper.
 
-2. Legacies of Anti-Authoritarian Resistance and Contemporary Democratic Resilience in Poland. With [Monika Nalepa
+2. [Legacies of Anti-Authoritarian Resistance and Contemporary Democratic Resilience in Poland](https://drive.google.com/file/d/199CiLyZtpLuK7Q5TinMIeIlOv4sUVJkf). With [Monika Nalepa
 (University of Chicago)](https://www.monikanalepa.com) Under review.
 
 3. How Should Mainstream Parties Campaign Against Undemocratic Leaders?
