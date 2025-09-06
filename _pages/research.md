@@ -18,7 +18,7 @@ author_profile: true
 
 ## Publications
 ------
-1. [Are Dead People Voting by Mail: Evidence from Washington State Administrative Data.](https://www.liebertpub.com/doi/10.1089/elj.2023.0047). 2024. Election Law Journal: Rules, Politics, and Policy. With [Jennifer Wu](https://jenniferawu.github.io/), [Chenoa Yorgason](https://www.chenoayorgason.com/), [Cassandra Handan-Nader](https://slnader.github.io/), [Andrew Myers](https://www.andrewcwmyers.com/), [Tobias Nowacki](https://tobiasnowacki.com/), [Daniel M. Thompson](https://dthompson.scholar.ss.ucla.edu/), [Jesse Yoder](https://www.jesselyoder.com/), and [Andrew B. Hall](https://www.andrewbenjaminhall.com/).
+1. [Are Dead People Voting by Mail: Evidence from Washington State Administrative Data](https://www.liebertpub.com/doi/10.1089/elj.2023.0047). 2024. _Election Law Journal: Rules, Politics, and Policy_. With [Jennifer Wu](https://jenniferawu.github.io/), [Chenoa Yorgason](https://www.chenoayorgason.com/), [Cassandra Handan-Nader](https://slnader.github.io/), [Andrew Myers](https://www.andrewcwmyers.com/), [Tobias Nowacki](https://tobiasnowacki.com/), [Daniel M. Thompson](https://dthompson.scholar.ss.ucla.edu/), [Jesse Yoder](https://www.jesselyoder.com/), and [Andrew B. Hall](https://www.andrewbenjaminhall.com/).
 
 ## Works in Progress
 ------
