@@ -34,6 +34,12 @@
 @import "archive";
 @import "sidebar";
 
+@import "vendor/font-awesome/fontawesome";
+@import "vendor/font-awesome/solid";
+@import "vendor/font-awesome/brands";
+@import "vendor/magnific-popup/magnific-popup";
+@import "print";
+
 body,
 p,
 li,
@@ -41,8 +47,12 @@ span {
   color: #000000 !important;
 }
 
-@import "vendor/font-awesome/fontawesome";
-@import "vendor/font-awesome/solid";
-@import "vendor/font-awesome/brands";
-@import "vendor/magnific-popup/magnific-popup";
-@import "print";
+/* Links: dark blue instead of light blue */
+a {
+  color: #003366 !important;  /* dark blue */
+}
+
+a:hover,
+a:focus {
+  color: #001a33 !important;  /* even darker on hover for accessibility */
+}
