@@ -34,6 +34,13 @@
 @import "archive";
 @import "sidebar";
 
+body,
+p,
+li,
+span {
+  color: #000000 !important;
+}
+
 @import "vendor/font-awesome/fontawesome";
 @import "vendor/font-awesome/solid";
 @import "vendor/font-awesome/brands";
