@@ -13,7 +13,7 @@ author_profile: true
 
 2. [From Anti-Authoritarian Resistance to Democratic Resilience:
 Legacies of Solidarity in Poland’s Backsliding Era](https://drive.google.com/file/d/199CiLyZtpLuK7Q5TinMIeIlOv4sUVJkf). With [Monika Nalepa
-(University of Chicago)](https://www.monikanalepa.com). _Under review_.
+(University of Chicago)](https://www.monikanalepa.com). _Revise & Resubmit at the Journal of Politics_.
 
 3. How Should Mainstream Parties Campaign Against Undemocratic Leaders? _Draft available upon request._
 
