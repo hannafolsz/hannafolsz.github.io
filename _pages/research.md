@@ -15,9 +15,9 @@ author_profile: true
 Legacies of Solidarity in Poland’s Backsliding Era](https://drive.google.com/file/d/199CiLyZtpLuK7Q5TinMIeIlOv4sUVJkf). With [Monika Nalepa
 (University of Chicago)](https://www.monikanalepa.com). _Under review_.
 
-3. How Should Mainstream Parties Campaign Against Undemocratic Leaders?
+3. How Should Mainstream Parties Campaign Against Undemocratic Leaders? _Draft available upon request._
 
-4. Local Government as Shelter for the Opposition: Evidence from Hungary and Poland. With [Anna Grzymala-Busse (Stanford University)](https://amgbusse.stanford.edu) 
+4. Local Government as Shelter for the Opposition: Evidence from Hungary and Poland. With [Anna Grzymala-Busse (Stanford University)](https://amgbusse.stanford.edu). _Draft available upon request._
 
 ## Publications
 ------
