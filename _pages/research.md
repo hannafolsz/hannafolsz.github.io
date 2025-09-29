@@ -16,7 +16,7 @@ author_profile: true
 
 3. How Should Mainstream Parties Campaign Against Undemocratic Leaders?
 
-4. Local Government as Shelter for Opposition in Democratic Backsliding in Hungary and Poland. With [Anna Grzymala-Busse (Stanford University)](https://amgbusse.stanford.edu) 
+4. Local Government as Shelter for the Opposition: Evidence from Hungary and Poland. With [Anna Grzymala-Busse (Stanford University)](https://amgbusse.stanford.edu) 
 
 ## Publications
 ------
