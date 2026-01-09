@@ -9,15 +9,13 @@ author_profile: true
 ## Working Papers
 ------
 
-1. [Economic Retaliation and the Decline of Opposition Quality](https://drive.google.com/file/d/1Kv079DdL_IcaGnXqzoqr6IVk1VSF0cn1). _Job market paper_.
+1. Economic Retaliation and the Decline of Opposition Quality. _Job market paper_.
 
-2. [From Anti-Authoritarian Resistance to Democratic Resilience:
-Legacies of Solidarity in Poland’s Backsliding Era](https://drive.google.com/file/d/199CiLyZtpLuK7Q5TinMIeIlOv4sUVJkf). With [Monika Nalepa
-(University of Chicago)](https://www.monikanalepa.com). _Revise & Resubmit at the Journal of Politics_.
+2. From Anti-Authoritarian Resistance to Democratic Resilience: Legacies of Solidarity in Poland’s Backsliding Era. _Revise & Resubmit at the Journal of Politics_.
 
-3. How Should Mainstream Parties Campaign Against Undemocratic Leaders? _Draft available upon request._
+3. How Should Mainstream Parties Campaign Against Undemocratic Leaders?
 
-4. Local Government as Shelter for the Opposition: Evidence from Hungary and Poland. With [Anna Grzymala-Busse (Stanford University)](https://amgbusse.stanford.edu). _Draft available upon request._
+4. Local Government as Shelter for the Opposition: Evidence from Hungary and Poland. With [Anna Grzymala-Busse (Stanford University)](https://amgbusse.stanford.edu).
 
 ## Publications
 ------
