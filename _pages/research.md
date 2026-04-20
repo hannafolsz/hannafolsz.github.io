@@ -11,11 +11,13 @@ author_profile: true
 
 1. Economic Retaliation and the Decline of Opposition Quality. _Job market paper_.
 
-2. From Anti-Authoritarian Resistance to Democratic Resilience: Legacies of Solidarity in Poland’s Backsliding Era. _Revise & Resubmit at the Journal of Politics_.
+2. From Anti-Authoritarian Resistance to Democratic Resilience: Legacies of Solidarity in Poland’s Backsliding Era. With [Monika Nalepa (University of Chicago)](https://https://www.monikanalepa.com/). _Revise & Resubmit at the Journal of Politics_.
 
 3. How Should Mainstream Parties Campaign Against Undemocratic Leaders?
 
 4. Local Government as Shelter for the Opposition: Evidence from Hungary and Poland. With [Anna Grzymala-Busse (Stanford University)](https://amgbusse.stanford.edu).
+
+5. Democratic Restoration and Its Tradeoffs: Evidence from Five Cases of Democratic Backsliding. With [Frances Cayton (Cornell University)](https://www.francescayton.com/).
 
 ## Publications
 ------
@@ -30,6 +32,4 @@ author_profile: true
 
 3. The Religious Drivers of Democratic Backsliding: The Evangelical Church in Brazil. With [Marc Jacob (University of Notre Dame)](https://www.marc-s-jacob.com) and [Adriana Pilar Ferreira Albanus (University of Notre Dame)](https://politicalscience.nd.edu/people/adriana-pilar-ferreira-albanus/)
 
-4. Voter Support for Rebuilding Democracy. With [Frances Cayton (Cornell University)](https://www.francescayton.com/)
-
-5. Losing my Religion? How Partisan Polarization Drives or Tempers Secularization. With [Sebastian Lucek (Stanford University)](https://politicalscience.stanford.edu/people/sebastian-lucek)
+4. Losing my Religion? How Partisan Polarization Drives or Tempers Secularization. With [Sebastian Lucek (Stanford University)](https://politicalscience.stanford.edu/people/sebastian-lucek)
