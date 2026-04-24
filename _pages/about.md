@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I am a 6th-year PhD Candidate in Political Science at Stanford University and a Pre-Doctoral Fellow at the Center on Democracy, Development and the Rule of Law. My research analyzes large datasets with modern quantitative tools to study opposition movements against democratic erosion and sources of democratic resilience in East-Central Europe and Latin America. Beginning in August 2026, I will be an Academy Scholar at the Harvard Academy for International and Area Studies. I will join IE University as Assistant Professor of Political Science in Fall 2027.
+Welcome! I am a 6th-year PhD Candidate in Political Science at Stanford University and a Pre-Doctoral Fellow at the Center on Democracy, Development and the Rule of Law. My research analyzes large datasets with modern quantitative tools to study opposition movements against democratic erosion and sources of democratic resilience in East-Central Europe and Latin America. 
+
+Beginning in August 2026, I will be an Academy Scholar at the Harvard Academy for International and Area Studies. I will join IE University as Assistant Professor of Political Science in Fall 2027.
 
 My dissertation, supported by the _APSA-NSF Dissertation Research Improvement Grant_, develops a theory of the _opposition trap_ to explain why established opposition parties routinely fail to mount successful electoral challenges in regimes undergoing democratic erosion despite often decades of past election successes, while new challengers more frequently defeat backsliders. I bring evidence from Hungary's contemporary episode of democratic decline, combining large-N datasets, including large text corpora, and causal research designs, along with an original elite survey, mass surveys, and qualitative evidence.
 
