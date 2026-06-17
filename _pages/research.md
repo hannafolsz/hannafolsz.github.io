@@ -10,9 +10,9 @@ author_profile: true
 ------
 
 1. Economic Retaliation and the Decline of Opposition Quality.
-- Best Paper Award, APSA European Politics \& Society Section (2026)
+- Best Paper Award, APSA European Politics & Society Section (2026)
 - Honorable Mention for Sage Best Paper Award, APSA Comparative Politics Section (2026)
-- Honorable Mention for Best Paper Award, APSA Democracy \& Autocracy Section (2026)
+- Honorable Mention for Best Paper Award, APSA Democracy & Autocracy Section (2026)
 - John Sullivan Award for best paper by a graduate student, APSA Elections, Public Opinion, and Voting Behavior Section (2026)
 
 2. From Anti-Authoritarian Resistance to Democratic Resilience: Legacies of Solidarity in Poland’s Backsliding Era. With [Monika Nalepa (University of Chicago)](https://https://www.monikanalepa.com/). _Revised & Resubmitted at the Journal of Politics_.
