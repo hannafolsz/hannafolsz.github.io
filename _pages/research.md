@@ -9,15 +9,21 @@ author_profile: true
 ## Working Papers
 ------
 
-1. Economic Retaliation and the Decline of Opposition Quality. _Job market paper_.
+1. Economic Retaliation and the Decline of Opposition Quality.
+- Best Paper Award, APSA European Politics \& Society Section (2026)
+- Honorable Mention for Sage Best Paper Award, APSA Comparative Politics Section (2026)
+- Honorable Mention for Best Paper Award, APSA Democracy \& Autocracy Section (2026)
+- John Sullivan Award for best paper by a graduate student, APSA Elections, Public Opinion, and Voting Behavior Section (2026)
 
-2. From Anti-Authoritarian Resistance to Democratic Resilience: Legacies of Solidarity in Poland’s Backsliding Era. With [Monika Nalepa (University of Chicago)](https://https://www.monikanalepa.com/). _Revise & Resubmit at the Journal of Politics_.
+2. From Anti-Authoritarian Resistance to Democratic Resilience: Legacies of Solidarity in Poland’s Backsliding Era. With [Monika Nalepa (University of Chicago)](https://https://www.monikanalepa.com/). _Revised & Resubmitted at the Journal of Politics_.
 
-3. How Should Mainstream Parties Campaign Against Undemocratic Leaders?
+3. Media Capture and Opposition Delegitimization in Democratic Decline.
 
-4. Local Government as Shelter for the Opposition: Evidence from Hungary and Poland. With [Anna Grzymala-Busse (Stanford University)](https://amgbusse.stanford.edu).
+4. How Should Mainstream Parties Campaign Against Undemocratic Leaders?
 
-5. Democratic Restoration and Its Tradeoffs: Evidence from Five Cases of Democratic Backsliding. With [Frances Cayton (Cornell University)](https://www.francescayton.com/).
+5. Local Government as Shelter for the Opposition: Evidence from Hungary and Poland. With [Anna Grzymala-Busse (Stanford University)](https://amgbusse.stanford.edu).
+
+6. Democratic Restoration and Its Tradeoffs: Evidence from Five Cases of Democratic Backsliding. With [Frances Cayton (Cornell University)](https://www.francescayton.com/).
 
 ## Publications
 ------
@@ -28,8 +34,6 @@ author_profile: true
 
 1. Voters’ Tradeoff Between Security and Democracy: Evidence from Five Countries in Latin America. With [Beatriz Magaloni (Stanford University)](http://bmagaloni.com)
 
-2. Media Capture and Opposition Delegitimization in Democratic Decline.
+2. The Religious Drivers of Democratic Backsliding: The Evangelical Church in Brazil. With [Marc Jacob (University of Notre Dame)](https://www.marc-s-jacob.com) and [Adriana Pilar Ferreira Albanus (University of Notre Dame)](https://politicalscience.nd.edu/people/adriana-pilar-ferreira-albanus/)
 
-3. The Religious Drivers of Democratic Backsliding: The Evangelical Church in Brazil. With [Marc Jacob (University of Notre Dame)](https://www.marc-s-jacob.com) and [Adriana Pilar Ferreira Albanus (University of Notre Dame)](https://politicalscience.nd.edu/people/adriana-pilar-ferreira-albanus/)
-
-4. Losing my Religion? How Partisan Polarization Drives or Tempers Secularization. With [Sebastian Lucek (Stanford University)](https://politicalscience.stanford.edu/people/sebastian-lucek)
+3. Losing my Religion? How Partisan Polarization Drives or Tempers Secularization. With [Sebastian Lucek (Stanford University)](https://politicalscience.stanford.edu/people/sebastian-lucek)
