@@ -14,6 +14,7 @@ author_profile: true
 - Honorable Mention for Sage Best Paper Award, APSA Comparative Politics Section (2026)
 - Honorable Mention for Best Paper Award, APSA Democracy & Autocracy Section (2026)
 - John Sullivan Award for best paper by a graduate student, APSA Elections, Public Opinion, and Voting Behavior Section (2026)
+- Honorable Mention for APSG Best Paper Award, Authoritarian Political Systems Group (2026)
 
 2. From Anti-Authoritarian Resistance to Democratic Resilience: Legacies of Solidarity in Poland’s Backsliding Era. With [Monika Nalepa (University of Chicago)](https://https://www.monikanalepa.com/). _Revised & Resubmitted at the Journal of Politics_.
 
@@ -27,7 +28,9 @@ author_profile: true
 
 ## Publications
 ------
-1. [Are Dead People Voting by Mail: Evidence from Washington State Administrative Data](https://www.liebertpub.com/doi/10.1089/elj.2023.0047). 2024. _Election Law Journal: Rules, Politics, and Policy_. With [Jennifer Wu](https://jenniferawu.github.io/), [Chenoa Yorgason](https://www.chenoayorgason.com/), [Cassandra Handan-Nader](https://slnader.github.io/), [Andrew Myers](https://www.andrewcwmyers.com/), [Tobias Nowacki](https://tobiasnowacki.com/), [Daniel M. Thompson](https://dthompson.scholar.ss.ucla.edu/), [Jesse Yoder](https://www.jesselyoder.com/), and [Andrew B. Hall](https://www.andrewbenjaminhall.com/).
+1. How Civil Society Defeated Viktor Orbán. Forthcoming. _Journal of Democracy_.
+
+2. [Are Dead People Voting by Mail: Evidence from Washington State Administrative Data](https://www.liebertpub.com/doi/10.1089/elj.2023.0047). 2024. _Election Law Journal: Rules, Politics, and Policy_. With [Jennifer Wu](https://jenniferawu.github.io/), [Chenoa Yorgason](https://www.chenoayorgason.com/), [Cassandra Handan-Nader](https://slnader.github.io/), [Andrew Myers](https://www.andrewcwmyers.com/), [Tobias Nowacki](https://tobiasnowacki.com/), [Daniel M. Thompson](https://dthompson.scholar.ss.ucla.edu/), [Jesse Yoder](https://www.jesselyoder.com/), and [Andrew B. Hall](https://www.andrewbenjaminhall.com/).
 
 ## Works in Progress
 ------
