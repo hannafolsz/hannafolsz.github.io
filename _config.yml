@@ -11,7 +11,7 @@ title                    : "Hanna Folsz"
 title_separator          : "-"
 name                     : &name "Hanna Folsz"
 
-description              : &description "I am a 6th-year PhD Candidate in Political Science at Stanford University. My research focuses on democratic resistance to authoritarian power grabs."
+description              : &description "I am a an incoming Academy Scholar at Harvard University. My research focuses on democratic resistance to authoritarian power grabs."
 url                      : "https://hannafolsz.com" # https://hannafolsz.github.io the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "hannafolsz/hannafolsz.github.io"
@@ -83,8 +83,8 @@ analytics:
 author:
   name             : "Hanna Folsz"
   avatar           : "website_picture.jpeg"
-  bio              : "6th-year PhD Candidate in Political Science & CDDRL Pre-Doctoral Fellow at Stanford University"
-  location         : "Stanford, United States"
+  bio              : "Incoming Academy Scholar at Harvard University"
+  location         : "Cambridge, United States"
   employer         :
   pubmed           :  
   googlescholar    :  
