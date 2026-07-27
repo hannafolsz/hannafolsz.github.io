@@ -18,6 +18,6 @@ I am also a regular contributor to the [Hungarian Observer](https://hungarianobs
 ## Interviews
 ------
 
-[Dr. Folsz: Even Deeply Entrenched Competitive Authoritarian Regimes Have Vulnerabilities](https://www.populismstudies.org/dr-folsz-even-deeply-entrenched-competitive-authoritarian-regimes-have-vulnerabilities/). July 2026. _European Center for Populism Studies_.
+[Dr. Folsz: Even Deeply Entrenched Competitive Authoritarian Regimes Have Vulnerabilities](https://www.populismstudies.org/dr-folsz-even-deeply-entrenched-competitive-authoritarian-regimes-have-vulnerabilities/). July 2026. _European Centre for Populism Studies_.
 
 
