@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Writing"
+title: "Public Writing & Media"
 permalink: /writing/
 author_profile: true
 ---
