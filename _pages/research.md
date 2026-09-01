@@ -23,7 +23,7 @@ author_profile: true
 
 2. From Anti-Authoritarian Resistance to Democratic Resilience: Legacies of Solidarity in Poland’s Backsliding Era. With [Monika Nalepa (University of Chicago)](https://https://www.monikanalepa.com/). _Revised & Resubmitted at the Journal of Politics_.
 
-3. Media Capture and Opposition Delegitimization in Democratic Decline.
+3. [Media Capture and Opposition-Discrediting Propaganda](https://drive.google.com/file/d/1aEikZyCwUjNrxanMaB6RgEL-RhI751sO/view?usp=sharing).
 
 4. How Should Mainstream Parties Campaign Against Undemocratic Leaders?
 
