@@ -25,11 +25,13 @@ author_profile: true
 
 3. [Media Capture and Opposition-Discrediting Propaganda](https://drive.google.com/file/d/1aEikZyCwUjNrxanMaB6RgEL-RhI751sO/view?usp=sharing).
 
-4. How Should Mainstream Parties Campaign Against Undemocratic Leaders?
+4. Markets Do Not Punish Firms for Maintaining DEI. With [Jake Grumbach](https://sites.google.com/view/jakegrumbach). _Under review_.
 
-5. Local Government as Shelter for the Opposition: Evidence from Hungary and Poland. With [Anna Grzymala-Busse (Stanford University)](https://amgbusse.stanford.edu).
+5. How Should Mainstream Parties Campaign Against Undemocratic Leaders?
 
-6. Democratic Restoration and Its Tradeoffs: Evidence from Five Cases of Democratic Backsliding. With [Frances Cayton (Cornell University)](https://www.francescayton.com/).
+6. Local Government as Shelter for the Opposition: Evidence from Hungary and Poland. With [Anna Grzymala-Busse (Stanford University)](https://amgbusse.stanford.edu).
+
+7. Democratic Restoration and Its Tradeoffs: Evidence from Five Cases of Democratic Backsliding. With [Frances Cayton (Cornell University)](https://www.francescayton.com/).
 
 ## Works in Progress
 ------
