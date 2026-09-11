@@ -31,7 +31,7 @@ author_profile: true
 
 6. Local Government as Shelter for the Opposition: Evidence from Hungary and Poland. With [Anna Grzymala-Busse (Stanford University)](https://amgbusse.stanford.edu).
 
-7. Democratic Restoration and Its Tradeoffs: Evidence from Five Cases of Democratic Backsliding. With [Frances Cayton (Cornell University)](https://www.francescayton.com/).
+7. Democratic Restoration and Its Tradeoffs: Evidence from Five Cases of Democratic Backsliding. With [Frances Cayton (Stanford University)](https://www.francescayton.com/).
 
 ## Works in Progress
 ------
